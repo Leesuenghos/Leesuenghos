@@ -34,4 +34,5 @@
 
 ## 📫 Connect with Me
 - Email: akdmstp97@gmail.com 
-- LinkedIn: [Seungho Lee](www.linkedin.com/in/seungho-lee-360072281)  
+- LinkedIn: [Seungho Lee](https://www.linkedin.com/in/seungho-lee-360072281)
+
