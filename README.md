@@ -36,7 +36,3 @@
 - Email: akdmstp97@gmail.com 
 - LinkedIn: [Seungho Lee](https://www.linkedin.com/in/seungho-lee-360072281)
 
-
-## 📊 GitHub Stats
-![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoLee&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoLee&layout=compact&langs_count=8&theme=tokyonight)
