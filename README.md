@@ -20,6 +20,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+---
+
 ## 📂 Featured Projects
 - [⚽ MATCH_PREDICTOR](https://github.com/Leesuenghos/match_predictor)  
   Data pipeline for EPL matches (API-Football → Preprocessing → Supabase → AWS automation).  
