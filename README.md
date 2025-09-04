@@ -1,5 +1,8 @@
 # Hi, I'm Seungho Lee 👋
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=777dc5&height=180&text=Hi,%20I'm%20Seungho%20Lee%20👋&animation=&fontColor=ffffff&fontSize=50" />
+    </div>
+    
 🎓 Bachelor’s in **Computer Science** at **Texas A&M University–Commerce (East Texas)**  
 📌 Focused on **Data Engineering, Cloud Computing, and ETL pipelines**  
 🚀 Passionate about building scalable data systems, cloud automation, and predictive analytics  
