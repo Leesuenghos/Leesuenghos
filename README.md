@@ -39,3 +39,4 @@
 - Email: akdmstp97@gmail.com 
 - LinkedIn: [Seungho Lee](https://www.linkedin.com/in/seungho-lee-360072281)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
