@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark&show_icons=true)
+![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesuenghos&theme=chartreuse-dark&show_icons=true)
 
 ---
 
